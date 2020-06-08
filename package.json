@@ -1,6 +1,6 @@
 {
   "name": "wrap-with-emo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This package will take any string you give it and wrap it with emoji",
   "main": "index.js",
   "scripts": {
